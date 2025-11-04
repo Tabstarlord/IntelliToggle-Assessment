@@ -1,4 +1,15 @@
+# IntelliToggle-Assessment
 
+## Live URL
+https://intellitoggle-assessment.netlify.app/
+https://github.com/Tabstarlord/IntelliToggle-Assessment
+
+
+
+## Notes
+- Used placeholder images where exact assets were unavailable.
+- Responsiveness prioritizes mobile-first, some desktop spacing may differ slightly from Figma.
+- Would improve performance by optimizing images and lazy-loading components.
 
 # Nuxt Minimal Starter
 
@@ -76,14 +87,3 @@ bun run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
-# IntelliToggle-Assessment
-
-## Live URL
-https://intellitoggle-assessment.netlify.app/
-
-
-
-## Notes
-- Used placeholder images where exact assets were unavailable.
-- Responsiveness prioritizes mobile-first, some desktop spacing may differ slightly from Figma.
-- Would improve performance by optimizing images and lazy-loading components.
