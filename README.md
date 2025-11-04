@@ -1,8 +1,8 @@
 # IntelliToggle-Assessment
 
 ## Live URL
-https://intellitoggle-assessment.netlify.app/
-https://github.com/Tabstarlord/IntelliToggle-Assessment
+- https://intellitoggle-assessment.netlify.app/
+- https://github.com/Tabstarlord/IntelliToggle-Assessment
 
 
 
